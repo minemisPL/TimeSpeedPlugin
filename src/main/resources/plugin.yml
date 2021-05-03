@@ -1,0 +1,6 @@
+name: CustomTimeSpeed
+version: ${project.version}
+main: me.minemis.customtimespeed.CustomTimeSpeed
+commands:
+  timespeed:
+    usage: /<command>
